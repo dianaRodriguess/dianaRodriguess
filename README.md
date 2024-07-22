@@ -3,10 +3,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="18" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="18" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="18" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="18" alt="linkedin logo"  />
+  <a href="https://dev.to/workinprogress" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="18" alt="devto logo"  />
+  </a>
+  <a href="mailto:dianarodrigues044@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="18" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/diana-rodrigues-529561264/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="18" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -46,9 +51,5 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=arduino" height="38" alt="arduino logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/dianaRodriguess/dianaRodriguess/output/snake.svg" alt="Snake animation" />
 
 ###
