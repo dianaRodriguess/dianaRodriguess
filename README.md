@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="left">👋 Hi, I'm Diana!</h1>
 
-<!--
-**dianaRodriguess/dianaRodriguess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h5 align="left">
+🎓 Bachelor's student in Information Systems at UFRN (Brazil) <br>
+🐧 Linux enthusiast, currently using Debian 12 with KDE Plasma <br>
+🖥️ Exploring programming, data analysis, and databases
+</h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dianaRodriguess/dianaRodriguess/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dianaRodriguess/dianaRodriguess/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dianaRodriguess/dianaRodriguess/output/pacman-contribution-graph.svg">
+</picture>
